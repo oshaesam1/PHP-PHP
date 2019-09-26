@@ -1,0 +1,18 @@
+* {margin: 0 ; padding: 0px}
+
+body {background-image: url(map.png)}
+.ContactUs  { position: relative ; left: 5%}
+.bigform {height: 610px ; width: 600px ; background-color: white}
+.laptop {background-image: url(bg-01.jpg) ; height: 30% ; width: 100% ; background-size: cover ;  background-position: center ; 
+}
+.txt { position: relative; filter: none ; color:white ; opacity: 100% ;left:30% ; top:30%; font-family:monospace}
+p {left: -9% ;position: relative ;font-size: 18px}
+.form { font-family:monospace ; font-size: 18px ; color:#808080 ;position: relative ; left: 15% }
+input { font-family:monospace ; font-size: 18px ;border-bottom-color: #808080 ;border-top: none ;border-left: none ;border-right: none ; border-bottom-width: thin ; display: inline-block;box-sizing:inherit ;  width: 40%; }
+.text { font-family:monospace ; font-size: 18px;border-bottom-color: #808080 ;border-top: none ;border-left: none ;border-right: none ; border-bottom-width: thin ; display: inline-block;box-sizing:inherit }
+.sumbit {width:inherit; color: white ; position: relative;top: 45% ;  font-family: monospace;font-size: 20px ;
+border-style:solid; border-width: thick;border-color: #9acd33
+ ; display: inline-block ; background-color: #9acd33
+ ;left: 20%;  border-radius: 30px ; padding: 10px}
+.message { top:-140px ;position: relative}
+.bigform { position: absolute ; left: 30%}
